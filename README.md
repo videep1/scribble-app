@@ -1,5 +1,6 @@
-# paint-board-app
-paint board app for fun
+# scribble board
+scribble app for fun
+to write some coloured word for birthday wishes
  
 ## How to install and use this app
 * Install python
